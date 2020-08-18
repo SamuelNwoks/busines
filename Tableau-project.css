@@ -1,0 +1,26 @@
+
+.jumb1{
+    background-image: Url(Images/pattern.jpg);
+    margin-top: 20px;
+    height: 300px;
+    
+}
+.jumb1 h1{
+    letter-spacing: .5px;
+    font-weight: 300;
+}
+.jumb2{
+    margin-top: -35px;
+    margin: auto;    
+}
+
+.jumb2 h4{
+    font-size: 35px;
+    color: black;
+    font-weight: 400; 
+}
+.jumb1 h5{
+    font-size: 23px;
+    font-weight: 300;
+
+}
