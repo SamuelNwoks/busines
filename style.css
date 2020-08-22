@@ -1,6 +1,6 @@
 
 .jumb1{
-    background-color: rgb(15,30,60);
+   background-color: rgb(15,30,60);
     margin-top: 20px;
     height: 300px;
     
@@ -14,7 +14,7 @@
     margin: auto;    
 }
 
-.jumb2 h4{
+.jumb2 h4, .why-certify, .product-exams, .partner-exam, .benefits, .cert-process, .product{
     font-size: 35px;
     color: black;
     font-weight: 400; 
@@ -22,5 +22,24 @@
 .jumb1 h5{
     font-size: 23px;
     font-weight: 300;
-
 }
+.review, .prep, .register, .set-up{
+    margin-top: 3rem;
+    font-size: 30px;
+    font-weight: 350;
+    color: black;
+}
+.card{
+    border: none;
+}
+.vl{
+    border-left: 1px green solid;
+    margin: 40px 0 0 -5px;
+    height: 140px;
+}
+.vl1{
+    border-left: 1px green solid;
+   margin: 40px 0 0 -5px;
+    height: 140px;
+}
+
